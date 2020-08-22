@@ -1,2 +1,6 @@
 repo:
   - ./*
+
+documentation: 
+  - any: ["./README.md"]
+    all: ["./README.md"]
