@@ -1,2 +1,5 @@
 repo:
   - ./*
+
+documentation: 
+  - ./README.md
